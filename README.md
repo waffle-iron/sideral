@@ -1,5 +1,7 @@
 # Sideral JS 
 
+[![Feature Requests](http://feathub.com/js-republic/sideral?format=svg)](http://feathub.com/js-republic/sideral)
+
 Sideral JS is the next generation of video-game framework with JavaScript. This framework is made to create a more complexe 2D game with all features needed like HUD, Event Manager, Map Editor, Quest manager, etc.
 It also provide complete library to make your game online.
 
